@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Islami</string>
+
+
+    <string name="quran_nav">Quran</string>
+    <string name="duaa_nav">Duaa</string>
+    <string name="prayers_nav">Prayers</string>
+    <string name="tasbeh_nav">Tasbeeh</string>
+    <string name="radio_nav">Radio</string>
+</resources>
